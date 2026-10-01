@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/DawnofGenX/Capstone/main/docs/og-banner.png" alt="Capstone" width="100%"/></p>
+
 # Maze Runner — Single & Multiplayer Maze Game
 
 A 2D maze game built with **Pygame**, featuring single-player and multiplayer modes over TCP sockets. Players navigate procedurally-themed mazes, collect coins and diamonds, avoid bombs, and race to the exit.
